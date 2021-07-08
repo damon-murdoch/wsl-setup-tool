@@ -6,7 +6,7 @@
 This is an application developed for automating the windows subsystem for linux (WSL) install process. The application can now perform the entire process with a single execution, assuming that all installs are successful. Verbose debugging information is provided in the case of an error during the installation.
 
 ### Installation
-1. Clone the repository and enter
+1. Clone and enter the repository
 ```
 git clone https://github.com/damon-murdoch/wsl-setup-tool
 cd wsl-setup-tool
