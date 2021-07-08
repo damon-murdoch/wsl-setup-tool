@@ -1,5 +1,5 @@
 # wsl-setup-tool
-## Powershell scripts for installing WSL
+## WSL Automated Installer written in Powershell
 ### Created by Damon Murdoch 
 
 ## Description
