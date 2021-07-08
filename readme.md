@@ -3,7 +3,7 @@
 ### Created by Damon Murdoch 
 
 ## Description
-These Powershell scripts have been developed for the purpose of installing and updating WSL to work with WSL2 automatically. The installer works in two parts, as the first script requires a restart to complete. The second script performs the cleanup tasks and then opens the WSL library in the Windows Store. 
+This is an application developed for automating the windows subsystem for linux (WSL) install process. The application can now perform the entire process with a single execution, assuming that all installs are successful. Verbose debugging information is provided in the case of an error during the installation.
 
 ## Future Changes
 A list of future planned changes are listed below.
